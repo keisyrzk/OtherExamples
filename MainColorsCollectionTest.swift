@@ -1,6 +1,5 @@
 //
 //  MainColorsCollectionTest.swift
-//  PaintIt
 //
 //  Created by keisyrzk on 10.02.2017.
 //  Copyright © 2017 keisyrzk. All rights reserved.
